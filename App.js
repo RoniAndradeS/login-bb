@@ -92,9 +92,9 @@ const styles = StyleSheet.create({
   button: {
     alignItems: 'center',
     backgroundColor: '#FFF200',
-    marginLeft: '25%',
+    width: 70,
+    marginLeft: 45,
     marginTop: 25,
-    width: '50%', 
     height: 30,
     borderRadius: 13,
   },
