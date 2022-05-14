@@ -8,7 +8,7 @@ When downloading this project follow this instructions
 in the terminal, inside the project folder put this commands:
 
 <ol>
-  <li>npm install</li>
-  <li>npm start or expo start</li>
+  <li><strong>npm install</strong></li>
+  <li><strong>npm start or expo start</strong></li>
 </ol>
 
