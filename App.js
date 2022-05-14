@@ -1,6 +1,8 @@
 import React from 'react';
 import { StyleSheet, Text, View, TextInput, SafeAreaView, Image, Alert, TouchableOpacity } from 'react-native';
 
+import logo from './assets/bb.png';
+
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
@@ -8,7 +10,7 @@ export default function App() {
           <View style={styles.img}>
             <Image
               style={{ width: 130, height: 90 }}
-              source={require('./assets/bb.png')}
+              source={logo}
             />
           </View>
           <View style={styles.containerText}>
