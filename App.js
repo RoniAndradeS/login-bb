@@ -1,3 +1,4 @@
+import React from 'react';
 import { StyleSheet, Text, View, TextInput, SafeAreaView, Image, Alert, TouchableOpacity } from 'react-native';
 
 export default function App() {
