@@ -112,6 +112,5 @@ const styles = StyleSheet.create({
   },
   textNewAcc: {
     color: '#fff',
-    
   },
 });
