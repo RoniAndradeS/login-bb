@@ -68,12 +68,10 @@ const styles = StyleSheet.create({
   containerText: {
     marginLeft: 8,
     marginTop: 6,
-
   },
   text: {
     color: '#fff',
     fontWeight: 'bold',
-
   },
   textInput:{
     width: '95%',
